@@ -4,7 +4,7 @@
 This repository contains the data audit and exploratory data analysis (EDA) for the D2C customer churn capstone project.
 
 ## Project Contents
-* `eda_analysis.ipynb`: The google colab containing the full analysis and visualizations.
+* `eda_analysis.ipynb`: The jupyter notebook containing the full analysis and visualizations.
 * `requirements.txt`: The list of libraries required to run this project.
 
 ## How to Run
